@@ -1,7 +1,7 @@
 {% set name = "Flask" %}
-{% set version = "1.0.2" %}
+{% set version = "0.11.1" %}
 {% set hash_type = "sha256" %}
-{% set hash = "2271c0070dbcb5275fad4a82e29f23ab92682dc45f9dfbc22c02ba9b9322ce48" %}
+{% set hash = "b4713f2bfb9ebc2966b8a49903ae0d3984781d5c878591cf2f7b484d28756b0e" %}
 
 package:
   name: {{ name|lower }}
